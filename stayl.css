@@ -1,0 +1,24 @@
+.text{
+text-align: center;
+border: 5px solid red;
+width: 1400px;
+margin: 50px auto;
+padding: 16px;
+color: white;
+background-color: brown;
+}
+body{
+    background-color: rgb(90, 139, 110);
+}
+.box{
+border: 10px solid red;
+width: 550px;
+background-color: aquamarine;
+box-sizing: border-box;
+margin: auto;
+}
+.matn{
+    border: 20px solid black;
+    padding: 10px;
+}
+
